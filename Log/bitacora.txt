@@ -1,0 +1,71 @@
+commit 52458dc570827a3e433db9f0f828109222f69bba (HEAD -> main)
+Author: CarlosSandoval2003 <jawicho@outlook.com>
+Date:   Wed Mar 8 11:14:33 2023 -0600
+
+    Cambios y Correciones Finales
+
+commit 43709ddcfb71e693f6ed85c6674ee22b3a8ae29e
+Author: CarlosSandoval2003 <jawicho@outlook.com>
+Date:   Wed Mar 8 11:02:21 2023 -0600
+
+    Modificacion del Script
+
+commit 20d050355735198c31acd0c43d008e56c274bb4d (RamaMantenimientos9959211324)
+Author: CarlosSandoval2003 <jawicho@outlook.com>
+Date:   Wed Mar 8 10:58:28 2023 -0600
+
+    Mantenimiento Marcas Creado
+
+commit 380141df120167d5641757bac7315350795de7d8
+Author: CarlosSandoval2003 <jawicho@outlook.com>
+Date:   Wed Mar 8 10:58:04 2023 -0600
+
+    Mantenimiento Vendedores Creado
+
+commit 5e17e788364d9a5c8fc64d5bb334d7f826f05d61 (RamaClases9959211324)
+Author: CarlosSandoval2003 <jawicho@outlook.com>
+Date:   Wed Mar 8 10:56:00 2023 -0600
+
+    Modelos de Marcas y vendedores creados
+
+commit 3695a574a5ca070ec4454e980e427071f4dd060a
+Author: CarlosSandoval2003 <jawicho@outlook.com>
+Date:   Wed Mar 8 10:55:10 2023 -0600
+
+    Clase Marcas Creada
+
+commit 0a301be198ce33e75794f781614b24eaf0250e3d
+Author: CarlosSandoval2003 <jawicho@outlook.com>
+Date:   Wed Mar 8 10:54:51 2023 -0600
+
+    Clase Vendedores Creada
+
+commit f90eb66e4351bef67345a730fc0a0a63118df32e
+Author: CarlosSandoval2003 <jawicho@outlook.com>
+Date:   Wed Mar 8 10:52:59 2023 -0600
+
+    Creacion del Menu General
+
+commit 956f04853c1786ffd0e5edf26611b8aa52b364c7
+Author: CarlosSandoval2003 <jawicho@outlook.com>
+Date:   Wed Mar 8 10:51:36 2023 -0600
+
+    Creacion del Login
+
+commit 538763ee0e2aa276142d31017a90887394683962
+Author: CarlosSandoval2003 <jawicho@outlook.com>
+Date:   Wed Mar 8 10:49:51 2023 -0600
+
+    Creacion de clase y modelo usuario
+
+commit b377753a3be6ed1022669645a256b37163f97415
+Author: CarlosSandoval2003 <jawicho@outlook.com>
+Date:   Wed Mar 8 10:48:38 2023 -0600
+
+    Creacion de archivo Conexion
+
+commit f408175c54549f2bbcabe68440e30f334e4c0d55
+Author: CarlosSandoval2003 <jawicho@outlook.com>
+Date:   Wed Mar 8 10:43:33 2023 -0600
+
+    Creacion del Proyecto
